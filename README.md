@@ -1,5 +1,7 @@
 # Goggle_Assistant_Home_Automation
-It's a IOT based project to switch on and off our home appliancies and aslos we can monitor t-emperature and humidity of our home and also detects any type of gas leakage &amp; also detects motion.
+It's a IOT based project to switch on and off our home appliancies using voice commands through google assistant or also using an application, we can monitor temperature and humidity of our home, the reading of that temperature & humidity in the appp,It also detects any type of gas leakage & also detects motion.
+
+this required continues wifi through that we can controll and monitor devices from any where in the world.
 
 Here this project is completely based on arduino board that is nodemcu ESP8266 wifi baord.
 
