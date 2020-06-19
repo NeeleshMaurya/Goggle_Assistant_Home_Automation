@@ -18,6 +18,7 @@ etc,
 
 Platform used in this project is AdafruitIO, IFTTT & IOTMQTTPanel(application).
 
-Also there is video of working of the project.
+Also there is video of working of the project on this link given below
+https://drive.google.com/file/d/1eQhf56hgfQaX3ijAmumOcB8kql-ENDIJ/view?usp=sharing
 
 
